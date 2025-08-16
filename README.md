@@ -43,3 +43,9 @@ I will identify the top 10 most popular technologies from these categories that 
 * Pandas
 * Matplotlib
 * Seaborn
+
+## Jupyter Notebook
+
+To view or download the notebook, please click on the link below.
+
+[Data Visualization - Python](https://github.com/FaiLuReH3Ro/DataVisualization-Py/blob/main/Data_Visualization_Py.ipynb)
