@@ -1,2 +1,4 @@
-# DataVisualization-Py
-Data visualization using Python. This repository is part of the IBM Data Analyst Capstone focused on Python.
+# Data Visualization - Python
+
+<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DA-Capstone-Py?tab=readme-ov-file#data-visualization'>Data Visualization</a> section.</p>
+
