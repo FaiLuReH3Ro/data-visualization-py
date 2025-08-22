@@ -2,6 +2,12 @@
 
 <p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-visualization'>Data Visualization</a> section.</p>
 
+## Jupyter Notebook
+
+To view or download the notebook, please click on the link below.
+
+[Data Visualization - Python](https://github.com/FaiLuReH3Ro/data-visualization-py/blob/main/Data_Visualization_Py.ipynb)
+
 ## Dataset Used
 
 I will use various tables in the database (`survey-data.db`) that were created during the [Outliers](https://github.com/FaiLuReH3Ro/outliers-py) section.
@@ -43,9 +49,3 @@ I will identify the top 10 most popular technologies from these categories that 
 * Pandas
 * Matplotlib
 * Seaborn
-
-## Jupyter Notebook
-
-To view or download the notebook, please click on the link below.
-
-[Data Visualization - Python](https://github.com/FaiLuReH3Ro/data-visualization-py/blob/main/Data_Visualization_Py.ipynb)
