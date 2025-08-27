@@ -1,14 +1,14 @@
-# Data Visualization - Python
+# Data Visualization - Python 📊
 
 <p>This repository is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-visualization'>Data Visualization</a> section.</p>
 
-## Jupyter Notebook
+## 📓 Jupyter Notebook
 
-To view or download the notebook, please click on the link below.
+> To view or download the notebook, please click on the link below.
 
-[Data Visualization - Python](https://github.com/FaiLuReH3Ro/data-visualization-py/blob/main/Data_Visualization_Py.ipynb)
+👉 [Data Visualization - Python](https://github.com/FaiLuReH3Ro/data-visualization-py/blob/main/Data_Visualization_Py.ipynb)
 
-## Dataset Used
+## 📈 Dataset Used
 
 I will use various tables in the database (`survey-data.db`) that were created during the [Outliers](https://github.com/FaiLuReH3Ro/outliers-py) section.
 
@@ -20,14 +20,13 @@ I will use various tables in the database (`survey-data.db`) that were created d
 
 The tables are derived from `clean_survey_data.csv`.
 
-## Objectives
+## 🚀 Objectives
 
-* Connect to the sqlite3 database
+* Connect to the SQLite database
 * Find the most popular technologies from the data
 * Visualize the results
 
-
-## Technologies 
+## 💻 Technologies 
 
 I will identify the top 10 most popular technologies from these categories that survey participants currently work with and are interested in working with.
 
@@ -40,7 +39,7 @@ I will identify the top 10 most popular technologies from these categories that 
     <li>Collaboration Tools</li>
 </ul>
 
-## Tools Used
+## 🛠️ Tools Used
 
 * Jupyter notebook
 * Python
