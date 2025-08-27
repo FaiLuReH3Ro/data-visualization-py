@@ -44,7 +44,7 @@ I will identify the top 10 most popular technologies from these categories that 
 * Jupyter notebook
 * Python
 * SQL
-* SQLite3
+* SQLite
 * Pandas
 * Matplotlib
 * Seaborn
