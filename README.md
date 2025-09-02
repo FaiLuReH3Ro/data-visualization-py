@@ -4,9 +4,13 @@
 
 ## 📓 Jupyter Notebook
 
-> To view or download the notebook, please click on the link below.
+> Notebook on Kaggle
 
-👉 [Data Visualization - Python](https://github.com/FaiLuReH3Ro/data-visualization-py/blob/main/Data_Visualization_Py.ipynb)
+👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/data-visualization-python)
+
+> To view or download the notebook on GitHub, please click on the link below.
+
+👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/data-visualization-py/blob/main/Data_Visualization_Py.ipynb)
 
 ## 📈 Dataset Used
 
@@ -18,7 +22,7 @@ I will use various tables in the database (`survey-data.db`) that were created d
 * __noOutCompT__ - Table with no outliers in `CompTotal` column
 * __noOutCompY__ - Table with no outliers in `ConvertedCompYearly` column
 
-The tables are derived from `clean_survey_data.csv`.
+The tables are derived from [`clean_survey_data.csv`](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-2024-cleaned-data).
 
 ## 🚀 Objectives
 
