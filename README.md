@@ -4,10 +4,14 @@
 
 ## 📓 Jupyter Notebook
 
-> Notebook on Kaggle
+> [!NOTE]
+> Click on the link below to view the notebook on Kaggle.
 
 👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/data-visualization-python)
 
+<br>
+
+> [!NOTE]
 > To view or download the notebook on GitHub, please click on the link below.
 
 👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/data-visualization-py/blob/main/Data_Visualization_Py.ipynb)
